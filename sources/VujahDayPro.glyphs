@@ -154,7 +154,7 @@ value = 930;
 },
 {
 name = typoDescender;
-value = -390;
+value = -410;
 },
 {
 name = typoLineGap;
@@ -166,7 +166,7 @@ value = 930;
 },
 {
 name = hheaDescender;
-value = -390;
+value = -410;
 },
 {
 name = hheaLineGap;
@@ -178,7 +178,7 @@ value = 930;
 },
 {
 name = winDescent;
-value = 390;
+value = 410;
 },
 {
 name = strikeoutPosition;
@@ -118231,5 +118231,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 2;
+versionMinor = 3;
 }
