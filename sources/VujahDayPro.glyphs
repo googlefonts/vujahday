@@ -63800,16 +63800,6 @@ note = NULL;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "VujahdayPlain ROB Regular";
-},
-{
-name = postscriptFontName;
-value = "VujahdayPlainROB-Regular";
-}
-);
 instanceInterpolations = {
 "960B82ED-BAE9-407E-815C-F6C3A86A2215" = 1;
 };
