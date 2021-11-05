@@ -2,7 +2,7 @@
 
 Vujaday! That eerie feeling that nothing like this has ever happened before. This script font comes with both a plain and a script stylistic set. Its rough edge adds to the hand written feel. 
 
-![Sample Image](Documentation/image1.png)
+![Sample Image](documentation/image1.png)
 
 ## Building the Fonts
 
