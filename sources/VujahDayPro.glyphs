@@ -7,7 +7,9 @@ DisplayStrings = (
 "/A.ss01/Aacute.ss01/Abreve.ss01/Abreveacute.ss01/Abrevedotbelow.ss01/Abrevegrave.ss01/Abrevehookabove.ss01/Abrevetilde.ss01/Acaron.ss01/Acircumflex.ss01/Acircumflexacute.ss01/Acircumflexdotbelow.ss01/Acircumflexgrave.ss01/Acircumflexhookabove.ss01/Acircumflextilde.ss01/Adblgrave.ss01/Adieresis.ss01/Adotbelow.ss01/Agrave.ss01/Ahookabove.ss01/Ainvertedbreve.ss01/Amacron.ss01/Aogonek.ss01/Aring.ss01/Aringacute.ss01/Atilde.ss01",
 "AÁ/Abreve/Abreveacute/Abrevedotbelow/Abrevegrave/Abrevehookabove/Abrevetilde/Acaron Â/Acircumflexacute/Acircumflexdotbelow/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde/Adblgrave Ä/Adotbelow À/Ahookabove/Ainvertedbreve/Amacron/Aogonek Å/Aringacute Ã",
 "OÓ/Obreve/Ocaron Ô/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odblgrave Ö/Odieresismacron/Odotaccentmacron/Odotbelow Ò/Ohookabove/Ohorn/Ohornacute/Ohorndotbelow/Ohorngrave/Ohornhookabove/Ohorntilde/Ohungarumlaut/Oinvertedbreve/Omacron/Oogonek Ø/Oslashacute Õ/Otildemacron",
-"UÚ/Ubreve/Ucaron Û/Udblgrave Ü/Udieresiscaron/Udieresisgrave/Udieresismacron/Udotbelow Ù/Uhookabove/Uhorn/Uhornacute/Uhorndotbelow/Uhorngrave/Uhornhookabove/Uhorntilde/Uhungarumlaut/Uinvertedbreve/Umacron/Uogonek/Uring/Utilde"
+"UÚ/Ubreve/Ucaron Û/Udblgrave Ü/Udieresiscaron/Udieresisgrave/Udieresismacron/Udotbelow Ù/Uhookabove/Uhorn/Uhornacute/Uhorndotbelow/Uhorngrave/Uhornhookabove/Uhorntilde/Uhungarumlaut/Uinvertedbreve/Umacron/Uogonek/Uring/Utilde",
+"/circumflexcomb.case/brevecomb.case/tildecomb.case",
+"/nbspace"
 );
 classes = (
 {
@@ -385,13 +387,14 @@ unicode = 0020;
 },
 {
 glyphname = nbspace;
-lastChange = "2021-11-09 19:53:35 +0000";
+lastChange = "2021-11-09 22:15:22 +0000";
 layers = (
 {
 layerId = "960B82ED-BAE9-407E-815C-F6C3A86A2215";
-width = 70;
+width = 258;
 }
 );
+widthMetricsKey = space;
 note = nbspace;
 unicode = 00A0;
 },
@@ -118251,7 +118254,7 @@ width = 186;
 {
 color = 3;
 glyphname = tildecomb.case;
-lastChange = "2021-11-09 22:05:28 +0000";
+lastChange = "2021-11-09 22:10:11 +0000";
 layers = (
 {
 anchors = (
@@ -118325,24 +118328,24 @@ nodes = (
 "79 747 OFFCURVE",
 "90 747 CURVE SMOOTH",
 "135 747 OFFCURVE",
-"221 716 OFFCURVE",
-"244 716 CURVE SMOOTH",
-"279 716 OFFCURVE",
-"339 767 OFFCURVE",
-"349 788 CURVE SMOOTH",
-"351 791 OFFCURVE",
-"352 794 OFFCURVE",
-"352 797 CURVE SMOOTH",
-"352 805 OFFCURVE",
-"347 811 OFFCURVE",
-"344 811 CURVE SMOOTH",
-"340 811 OFFCURVE",
-"333 808 OFFCURVE",
-"323 798 CURVE SMOOTH",
-"296 775 OFFCURVE",
-"278 765 OFFCURVE",
-"263 765 CURVE SMOOTH",
-"238 765 OFFCURVE",
+"205 716 OFFCURVE",
+"228 716 CURVE SMOOTH",
+"263 716 OFFCURVE",
+"323 767 OFFCURVE",
+"333 788 CURVE SMOOTH",
+"335 791 OFFCURVE",
+"336 794 OFFCURVE",
+"336 797 CURVE SMOOTH",
+"336 805 OFFCURVE",
+"331 811 OFFCURVE",
+"328 811 CURVE SMOOTH",
+"324 811 OFFCURVE",
+"317 808 OFFCURVE",
+"307 798 CURVE SMOOTH",
+"280 775 OFFCURVE",
+"262 765 OFFCURVE",
+"247 765 CURVE SMOOTH",
+"222 765 OFFCURVE",
 "201 776 OFFCURVE",
 "174 786 CURVE SMOOTH",
 "148 796 OFFCURVE",
