@@ -15,14 +15,14 @@ import sys
 import argparse
 
 # Constants, these are the main "settings" for the image
-WIDTH, HEIGHT, MARGIN, FRAMES = 4200, 1800, 128, 1
+WIDTH, HEIGHT, MARGIN, FRAMES = 4300, 1800, 128, 1
 FONT_PATH = "../fonts/ttf/VujahdayScript-Regular.ttf"
 FONT_LICENSE = "OFL v1.1"
 AUXILIARY_FONT = "Helvetica"
 AUXILIARY_FONT_SIZE = 24
 BIG_TEXT = "Vujahday Script"
 BIG_TEXT_FONT_SIZE = 630
-BIG_TEXT_SIDE_MARGIN = MARGIN * 2
+BIG_TEXT_SIDE_MARGIN = MARGIN * 1.8
 BIG_TEXT_BOTTOM_MARGIN = MARGIN * 5.5
 GRID_VIEW = False # Change this to "True" for a grid overlay
 

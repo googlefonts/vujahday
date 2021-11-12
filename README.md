@@ -1,6 +1,6 @@
 # Vujahday Script
 
-Vujaday! That eerie feeling that nothing like this has ever happened before. This script font comes with both a plain and a script stylistic set. Its rough edge adds to the hand written feel. 
+Vujaday! That eerie feeling that nothing like this has ever happened before. This script font comes with both a plain and a script stylistic set. Its rough edge adds to the handwritten feel. 
 
 ![Sample Image](documentation/image1.png)
 
