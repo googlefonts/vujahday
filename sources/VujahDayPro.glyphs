@@ -8,8 +8,7 @@ DisplayStrings = (
 "OÓ/Obreve/Ocaron Ô/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odblgrave Ö/Odieresismacron/Odotaccentmacron/Odotbelow Ò/Ohookabove/Ohorn/Ohornacute/Ohorndotbelow/Ohorngrave/Ohornhookabove/Ohorntilde/Ohungarumlaut/Oinvertedbreve/Omacron/Oogonek Ø/Oslashacute Õ/Otildemacron",
 "UÚ/Ubreve/Ucaron Û/Udblgrave Ü/Udieresiscaron/Udieresisgrave/Udieresismacron/Udotbelow Ù/Uhookabove/Uhorn/Uhornacute/Uhorndotbelow/Uhorngrave/Uhornhookabove/Uhorntilde/Uhungarumlaut/Uinvertedbreve/Umacron/Uogonek/Uring/Utilde",
 "/circumflexcomb.case/brevecomb.case/tildecomb.case",
-"/acutecomb.case/Aringacute.ss01",
-"/f_f/f_f_i/f_f_l/fi/fl/f_f.ss01/f_f_i.ss01/f_f_l.ss01/fi.ss01/fl.ss01"
+"/acutecomb.case/Aringacute.ss01"
 );
 classes = (
 {
@@ -68371,9 +68370,15 @@ width = 448;
 },
 {
 glyphname = f_f;
-lastChange = "2021-11-09 22:05:28 +0000";
+lastChange = "2021-11-12 10:46:37 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{358, 0}";
+}
+);
 background = {
 components = (
 {
@@ -68403,9 +68408,19 @@ rightMetricsKey = f;
 },
 {
 glyphname = f_f_i;
-lastChange = "2021-11-09 22:05:28 +0000";
+lastChange = "2021-11-12 10:46:40 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{324.667, 0}";
+},
+{
+name = caret_2;
+position = "{649.333, 0}";
+}
+);
 background = {
 components = (
 {
@@ -68443,9 +68458,19 @@ rightMetricsKey = i;
 },
 {
 glyphname = f_f_l;
-lastChange = "2021-11-09 22:05:28 +0000";
+lastChange = "2021-11-12 10:46:42 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{332.667, 0}";
+},
+{
+name = caret_2;
+position = "{665.333, 0}";
+}
+);
 background = {
 components = (
 {
@@ -68483,9 +68508,15 @@ rightMetricsKey = l;
 },
 {
 glyphname = fi;
-lastChange = "2021-11-09 21:29:28 +0000";
+lastChange = "2021-11-12 10:46:44 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{308, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -69014,9 +69045,15 @@ unicode = FB01;
 },
 {
 glyphname = fl;
-lastChange = "2021-11-09 21:29:28 +0000";
+lastChange = "2021-11-12 10:46:48 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{309.5, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -69553,9 +69590,15 @@ unicode = FB02;
 },
 {
 glyphname = f_f.ss01;
-lastChange = "2021-11-09 22:05:28 +0000";
+lastChange = "2021-11-12 10:46:51 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{359, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -69970,9 +70013,19 @@ width = 718;
 },
 {
 glyphname = f_f_i.ss01;
-lastChange = "2021-11-09 22:05:28 +0000";
+lastChange = "2021-11-12 10:46:53 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{324.667, 0}";
+},
+{
+name = caret_2;
+position = "{649.333, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -70524,9 +70577,19 @@ width = 974;
 },
 {
 glyphname = f_f_l.ss01;
-lastChange = "2021-11-09 22:05:28 +0000";
+lastChange = "2021-11-12 10:46:56 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{348.333, 0}";
+},
+{
+name = caret_2;
+position = "{696.667, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -71166,9 +71229,15 @@ width = 1045;
 },
 {
 glyphname = fi.ss01;
-lastChange = "2021-11-09 22:05:28 +0000";
+lastChange = "2021-11-12 10:47:00 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{308, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -71601,9 +71670,15 @@ note = fi;
 },
 {
 glyphname = fl.ss01;
-lastChange = "2021-11-09 22:05:28 +0000";
+lastChange = "2021-11-12 10:47:03 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{345.5, 0}";
+}
+);
 background = {
 paths = (
 {
